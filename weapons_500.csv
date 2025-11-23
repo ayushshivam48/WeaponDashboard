@@ -1,0 +1,501 @@
+Name,Type,Caliber,Weight,Range,Velocity,ROF,Origin,Year,Manufacturer,Mechanism,Feed System
+FN SCAR-L,Assault Rifle,5.56×45mm NATO,3.77kg,499m,862m/s,800 rpm,Belgium,1975,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+M16A4,Assault Rifle,5.56×45mm NATO,3.28kg,499m,919m/s,700 rpm,USA,2022,Colt,"Gas-operated, rotating bolt",30-round mag
+Steyr AUG,Assault Rifle,5.56×45mm NATO,3.68kg,514m,922m/s,650 rpm,Austria,2015,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M4 Carbine,Carbine,5.56×45mm NATO,3.2kg,480m,891m/s,950 rpm,USA,1971,Colt,"Gas-operated, rotating bolt",30-round mag
+PKM,General Purpose MG,7.62×54mmR,3.02kg,482m,774m/s,650 rpm,Soviet Union,2006,Kalashnikov,Long-stroke gas piston,30-round mag
+M1911,Pistol,.45 ACP,0.84kg,54m,349m/s,Semi-automatic,USA,1975,Colt,"Short recoil, locked breech",11-round detachable mag
+M4 Carbine,Carbine,5.56×45mm NATO,4.02kg,472m,919m/s,1200 rpm,USA,2010,Colt,"Gas-operated, rotating bolt",30-round mag
+Barrett M82,Anti-materiel rifle,.50 BMG,13.91kg,1910m,1180m/s,57 rpm,USA,1962,Barrett,Short-recoil,10-round detachable mag
+Steyr AUG,Assault Rifle,5.56×45mm NATO,3.09kg,540m,930m/s,800 rpm,Austria,1995,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+FAMAS,Assault Rifle,5.56×45mm NATO,3.28kg,526m,934m/s,700 rpm,France,1974,GIAT,Lever-delayed blowback,30-round mag
+FAMAS,Assault Rifle,5.56×45mm NATO,3.26kg,506m,903m/s,1200 rpm,France,1993,GIAT,Lever-delayed blowback,30-round mag
+FAMAS,Assault Rifle,5.56×45mm NATO,3.39kg,508m,896m/s,950 rpm,France,1961,GIAT,Lever-delayed blowback,30-round mag
+IWI Tavor,Assault Rifle,5.56×45mm NATO,3.61kg,488m,884m/s,950 rpm,Israel,2015,IWI,Long-stroke gas piston,30-round mag
+Glock 17,Pistol,9×19mm,0.89kg,54m,344m/s,Semi-automatic,Austria,2013,Glock,"Short recoil, locked breech",10-round detachable mag
+FAMAS,Assault Rifle,5.56×45mm NATO,3.14kg,459m,932m/s,950 rpm,France,1967,GIAT,Lever-delayed blowback,30-round mag
+M14,Battle Rifle,7.62×51mm NATO,3.1kg,530m,802m/s,600 rpm,USA,2003,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+SIG MCX,Assault Rifle,5.56×45mm NATO,3.13kg,482m,928m/s,1000 rpm,USA,1995,SIG Sauer,Short-stroke gas piston,30-round mag
+FAMAS,Assault Rifle,5.56×45mm NATO,3.12kg,537m,891m/s,700 rpm,France,2015,GIAT,Lever-delayed blowback,30-round mag
+FN FAL,Battle Rifle,7.62×51mm NATO,3.79kg,458m,814m/s,650 rpm,Belgium,1986,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+FN FAL,Battle Rifle,7.62×51mm NATO,3.7kg,460m,788m/s,1200 rpm,Belgium,1993,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M4 Carbine,Carbine,5.56×45mm NATO,3.69kg,508m,919m/s,700 rpm,USA,1993,Colt,"Gas-operated, rotating bolt",30-round mag
+MP5,Submachine Gun,9×19mm,3.0kg,205m,397m/s,950 rpm,Germany,2023,Heckler & Koch,Roller-delayed blowback,30-round mag
+M16A4,Assault Rifle,5.56×45mm NATO,3.39kg,547m,937m/s,800 rpm,USA,1956,Colt,"Gas-operated, rotating bolt",30-round mag
+G3 Compact-5,Battle Rifle,7.62×51mm NATO,3.33kg,501m,798m/s,700 rpm,Germany,1945,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+G3 Elite-1,Battle Rifle,7.62×51mm NATO,4.0kg,484m,811m/s,1200 rpm,Germany,1983,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+M14 Elite-5,Battle Rifle,7.62×51mm NATO,3.28kg,472m,817m/s,700 rpm,USA,1973,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M1911 Recon-8,Pistol,.45 ACP,0.74kg,53m,350m/s,Semi-automatic,USA,1995,Colt,"Short recoil, locked breech",13-round detachable mag
+AK-47 SOPMOD-5,Assault Rifle,7.62×39mm,3.1kg,549m,778m/s,1000 rpm,Soviet Union,1953,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Steyr AUG SOPMOD-3,Assault Rifle,5.56×45mm NATO,3.08kg,510m,912m/s,700 rpm,Austria,1993,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M14 Heavy-5,Battle Rifle,7.62×51mm NATO,3.75kg,539m,807m/s,700 rpm,USA,2004,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+FN FAL Custom-5,Battle Rifle,7.62×51mm NATO,3.91kg,472m,774m/s,800 rpm,Belgium,1949,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M1 Garand Heavy-6,Battle Rifle,.30-06 Springfield,3.83kg,497m,932m/s,1000 rpm,USA,1974,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+SOPMOD FAMAS,Assault Rifle,5.56×45mm NATO,3.97kg,538m,858m/s,650 rpm,France,1987,GIAT,Lever-delayed blowback,30-round mag
+M1 Garand Night-Ops-5,Battle Rifle,.30-06 Springfield,3.99kg,502m,873m/s,600 rpm,USA,2014,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Barrett M82 Recon-6,Anti-materiel rifle,.50 BMG,14.41kg,1720m,1157m/s,52 rpm,USA,1958,Barrett,Short-recoil,10-round detachable mag
+M249 SAW Compact-9,Light Machine Gun,5.56×45mm NATO,7.74kg,983m,938m/s,1200 rpm,USA,1975,FN Herstal,"Gas-operated, rotating bolt",Belt-fed
+Barrett M82 SOPMOD-2,Anti-materiel rifle,.50 BMG,13.53kg,1650m,1151m/s,32 rpm,USA,1985,Barrett,Short-recoil,10-round detachable mag
+M14 Compact-4,Battle Rifle,7.62×51mm NATO,3.09kg,544m,764m/s,1000 rpm,USA,1964,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M240 Heavy-2,General Purpose MG,7.62×51mm NATO,3.58kg,454m,783m/s,600 rpm,USA/Belgium,1968,FN Herstal,Short-stroke gas piston,30-round mag
+Glock 17 Recon-6,Pistol,9×19mm,0.8kg,51m,340m/s,Semi-automatic,Austria,2017,Glock,"Short recoil, locked breech",14-round detachable mag
+M1 Garand Compact-3,Battle Rifle,.30-06 Springfield,3.43kg,479m,895m/s,600 rpm,USA,1954,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Modernized HK416,Assault Rifle,5.56×45mm NATO,3.33kg,467m,885m/s,1000 rpm,Germany,1950,Heckler & Koch,Short-stroke gas piston,30-round mag
+Elite G3,Battle Rifle,7.62×51mm NATO,3.4kg,460m,804m/s,600 rpm,Germany,2012,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+Beretta ARX160 Night-Ops-8,Assault Rifle,5.56×45mm NATO,3.38kg,537m,856m/s,1000 rpm,Italy,1956,Beretta,Short-stroke gas piston,30-round mag
+FN FAL Modernized-4,Battle Rifle,7.62×51mm NATO,3.17kg,510m,781m/s,1000 rpm,Belgium,1949,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Beretta ARX160 Elite-1,Assault Rifle,5.56×45mm NATO,3.02kg,486m,885m/s,800 rpm,Italy,1958,Beretta,Short-stroke gas piston,30-round mag
+Uzi CQC-7,Submachine Gun,9×19mm,3.98kg,192m,402m/s,1200 rpm,Israel,1990,IMI,Blowback,30-round mag
+M1911 Night-Ops-6,Pistol,.45 ACP,0.86kg,46m,339m/s,Semi-automatic,USA,1951,Colt,"Short recoil, locked breech",17-round detachable mag
+MP5 Elite-1,Submachine Gun,9×19mm,3.06kg,198m,386m/s,900 rpm,Germany,1979,Heckler & Koch,Roller-delayed blowback,30-round mag
+FN FAL Tactical-9,Battle Rifle,7.62×51mm NATO,3.25kg,489m,774m/s,800 rpm,Belgium,2013,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+SIG MCX SOPMOD-2,Assault Rifle,5.56×45mm NATO,4.0kg,489m,860m/s,950 rpm,USA,1955,SIG Sauer,Short-stroke gas piston,30-round mag
+Elite Barrett M82,Anti-materiel rifle,.50 BMG,13.61kg,1879m,1228m/s,31 rpm,USA,2011,Barrett,Short-recoil,10-round detachable mag
+Mk II SIG MCX,Assault Rifle,5.56×45mm NATO,3.65kg,465m,928m/s,700 rpm,USA,1982,SIG Sauer,Short-stroke gas piston,30-round mag
+Glock 17 Heavy-1,Pistol,9×19mm,0.77kg,52m,361m/s,Semi-automatic,Austria,1954,Glock,"Short recoil, locked breech",10-round detachable mag
+M240 Night-Ops-9,General Purpose MG,7.62×51mm NATO,3.33kg,490m,821m/s,700 rpm,USA/Belgium,1982,FN Herstal,Short-stroke gas piston,30-round mag
+Steyr AUG Spec-Ops-8,Assault Rifle,5.56×45mm NATO,3.86kg,526m,889m/s,1200 rpm,Austria,1996,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Spec-Ops Beretta ARX160,Assault Rifle,5.56×45mm NATO,3.44kg,527m,907m/s,650 rpm,Italy,2000,Beretta,Short-stroke gas piston,30-round mag
+AK-47 Heavy-8,Assault Rifle,7.62×39mm,3.88kg,464m,764m/s,800 rpm,Soviet Union,1998,Izhmash,"Gas-operated, rotating bolt",30-round mag
+FN FAL Heavy-2,Battle Rifle,7.62×51mm NATO,3.38kg,500m,777m/s,900 rpm,Belgium,1949,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M1911 Elite-3,Pistol,.45 ACP,0.91kg,50m,338m/s,Semi-automatic,USA,1967,Colt,"Short recoil, locked breech",10-round detachable mag
+Barrett M82 Compact-4,Anti-materiel rifle,.50 BMG,14.92kg,1670m,1216m/s,30 rpm,USA,1986,Barrett,Short-recoil,10-round detachable mag
+IWI Tavor Tactical-7,Assault Rifle,5.56×45mm NATO,3.28kg,458m,874m/s,600 rpm,Israel,1949,IWI,Long-stroke gas piston,30-round mag
+PKM Modernized-3,General Purpose MG,7.62×54mmR,3.62kg,531m,805m/s,600 rpm,Soviet Union,2003,Kalashnikov,Long-stroke gas piston,30-round mag
+Compact MG42,General Purpose MG,7.92×57mm Mauser,3.78kg,486m,858m/s,700 rpm,Germany,1992,Mauser,Short-stroke gas piston,30-round mag
+Spec-Ops IWI Tavor,Assault Rifle,5.56×45mm NATO,3.55kg,509m,921m/s,1200 rpm,Israel,2002,IWI,Long-stroke gas piston,30-round mag
+Uzi SOPMOD-3,Submachine Gun,9×19mm,3.65kg,201m,383m/s,1200 rpm,Israel,2020,IMI,Blowback,30-round mag
+FAMAS SOPMOD-4,Assault Rifle,5.56×45mm NATO,3.16kg,522m,900m/s,900 rpm,France,1958,GIAT,Lever-delayed blowback,30-round mag
+FN FAL CQC-4,Battle Rifle,7.62×51mm NATO,3.75kg,464m,839m/s,800 rpm,Belgium,1951,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+MP5 Night-Ops-8,Submachine Gun,9×19mm,3.03kg,191m,414m/s,1000 rpm,Germany,2003,Heckler & Koch,Roller-delayed blowback,30-round mag
+Elite FAMAS,Assault Rifle,5.56×45mm NATO,3.58kg,503m,857m/s,1000 rpm,France,1981,GIAT,Lever-delayed blowback,30-round mag
+M249 SAW Mk II-5,Light Machine Gun,5.56×45mm NATO,8.37kg,988m,925m/s,650 rpm,USA,1980,FN Herstal,"Gas-operated, rotating bolt",Belt-fed
+AK-47 CQC-1,Assault Rifle,7.62×39mm,3.67kg,470m,802m/s,1200 rpm,Soviet Union,1992,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Steyr AUG Custom-4,Assault Rifle,5.56×45mm NATO,3.79kg,481m,939m/s,1200 rpm,Austria,2023,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M16A4 Modernized-7,Assault Rifle,5.56×45mm NATO,3.28kg,486m,900m/s,1200 rpm,USA,1982,Colt,"Gas-operated, rotating bolt",30-round mag
+Steyr AUG Elite-6,Assault Rifle,5.56×45mm NATO,3.24kg,478m,932m/s,800 rpm,Austria,2006,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M14 Heavy-1,Battle Rifle,7.62×51mm NATO,3.58kg,453m,839m/s,900 rpm,USA,2022,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+IWI Tavor Night-Ops-3,Assault Rifle,5.56×45mm NATO,3.39kg,545m,860m/s,700 rpm,Israel,1995,IWI,Long-stroke gas piston,30-round mag
+Modernized FN FAL,Battle Rifle,7.62×51mm NATO,3.82kg,533m,769m/s,900 rpm,Belgium,2023,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Steyr AUG Mk II-2,Assault Rifle,5.56×45mm NATO,3.24kg,462m,935m/s,1200 rpm,Austria,1982,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Elite Steyr AUG,Assault Rifle,5.56×45mm NATO,3.46kg,493m,897m/s,1000 rpm,Austria,1985,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Beretta ARX160 Tactical-2,Assault Rifle,5.56×45mm NATO,3.28kg,512m,891m/s,1000 rpm,Italy,1967,Beretta,Short-stroke gas piston,30-round mag
+M16A4 Custom-7,Assault Rifle,5.56×45mm NATO,2.98kg,522m,863m/s,650 rpm,USA,1973,Colt,"Gas-operated, rotating bolt",30-round mag
+Beretta ARX160 Compact-9,Assault Rifle,5.56×45mm NATO,3.09kg,464m,921m/s,1200 rpm,Italy,1993,Beretta,Short-stroke gas piston,30-round mag
+PKM Elite-2,General Purpose MG,7.62×54mmR,3.91kg,487m,762m/s,1200 rpm,Soviet Union,1965,Kalashnikov,Long-stroke gas piston,30-round mag
+M1 Garand CQC-6,Battle Rifle,.30-06 Springfield,3.56kg,466m,944m/s,1000 rpm,USA,1953,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Barrett M82 Heavy-9,Anti-materiel rifle,.50 BMG,13.62kg,1694m,1207m/s,56 rpm,USA,1955,Barrett,Short-recoil,10-round detachable mag
+MG42 CQC-4,General Purpose MG,7.92×57mm Mauser,3.51kg,540m,913m/s,1000 rpm,Germany,1994,Mauser,Short-stroke gas piston,30-round mag
+FAMAS CQC-2,Assault Rifle,5.56×45mm NATO,3.77kg,500m,891m/s,700 rpm,France,2006,GIAT,Lever-delayed blowback,30-round mag
+MG42 Custom-9,General Purpose MG,7.92×57mm Mauser,3.98kg,483m,857m/s,950 rpm,Germany,1976,Mauser,Short-stroke gas piston,30-round mag
+Glock 17 Compact-7,Pistol,9×19mm,0.75kg,49m,356m/s,Semi-automatic,Austria,1971,Glock,"Short recoil, locked breech",20-round detachable mag
+Glock 17 Modernized-4,Pistol,9×19mm,0.86kg,49m,365m/s,Semi-automatic,Austria,1962,Glock,"Short recoil, locked breech",17-round detachable mag
+FN SCAR-L CQC-3,Assault Rifle,5.56×45mm NATO,3.9kg,461m,888m/s,1200 rpm,Belgium,1994,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+M240 Mk II-3,General Purpose MG,7.62×51mm NATO,3.68kg,511m,762m/s,1200 rpm,USA/Belgium,1957,FN Herstal,Short-stroke gas piston,30-round mag
+AK-47 Night-Ops-6,Assault Rifle,7.62×39mm,3.45kg,521m,815m/s,1200 rpm,Soviet Union,1982,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M4 Carbine Spec-Ops-9,Carbine,5.56×45mm NATO,3.77kg,528m,924m/s,900 rpm,USA,1972,Colt,"Gas-operated, rotating bolt",30-round mag
+M1 Garand Custom-2,Battle Rifle,.30-06 Springfield,2.99kg,484m,893m/s,650 rpm,USA,1987,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Mk II M14,Battle Rifle,7.62×51mm NATO,3.19kg,549m,822m/s,950 rpm,USA,2023,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M1 Garand Tactical-9,Battle Rifle,.30-06 Springfield,3.99kg,491m,936m/s,900 rpm,USA,1963,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M1911 Tactical-9,Pistol,.45 ACP,0.92kg,54m,336m/s,Semi-automatic,USA,2024,Colt,"Short recoil, locked breech",14-round detachable mag
+AK-47 Mk II-3,Assault Rifle,7.62×39mm,3.95kg,523m,789m/s,800 rpm,Soviet Union,1991,Izhmash,"Gas-operated, rotating bolt",30-round mag
+SIG MCX CQC-3,Assault Rifle,5.56×45mm NATO,3.0kg,511m,917m/s,900 rpm,USA,1953,SIG Sauer,Short-stroke gas piston,30-round mag
+M1 Garand Modernized-6,Battle Rifle,.30-06 Springfield,3.25kg,531m,898m/s,1200 rpm,USA,2001,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+FN SCAR-L SOPMOD-6,Assault Rifle,5.56×45mm NATO,3.33kg,533m,942m/s,800 rpm,Belgium,2015,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+M249 SAW Modernized-2,Light Machine Gun,5.56×45mm NATO,9.62kg,1014m,901m/s,1200 rpm,USA,1976,FN Herstal,"Gas-operated, rotating bolt",100-round belt
+M1 Garand Night-Ops-7,Battle Rifle,.30-06 Springfield,3.15kg,495m,861m/s,650 rpm,USA,1958,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+AK-47 SOPMOD-2,Assault Rifle,7.62×39mm,3.07kg,508m,819m/s,1200 rpm,Soviet Union,1980,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Barrett M82 Spec-Ops-9,Anti-materiel rifle,.50 BMG,12.16kg,1955m,1251m/s,36 rpm,USA,1986,Barrett,Short-recoil,10-round detachable mag
+MG42 Spec-Ops-9,General Purpose MG,7.92×57mm Mauser,3.64kg,464m,927m/s,900 rpm,Germany,1965,Mauser,Short-stroke gas piston,30-round mag
+Spec-Ops MG42,General Purpose MG,7.92×57mm Mauser,3.76kg,498m,940m/s,800 rpm,Germany,1961,Mauser,Short-stroke gas piston,30-round mag
+PKM Mk II-7,General Purpose MG,7.62×54mmR,3.93kg,484m,817m/s,1000 rpm,Soviet Union,2021,Kalashnikov,Long-stroke gas piston,30-round mag
+MP5 Mk II-8,Submachine Gun,9×19mm,3.24kg,191m,389m/s,1000 rpm,Germany,1952,Heckler & Koch,Roller-delayed blowback,30-round mag
+FAMAS Modernized-1,Assault Rifle,5.56×45mm NATO,4.0kg,489m,931m/s,600 rpm,France,1947,GIAT,Lever-delayed blowback,30-round mag
+PKM Night-Ops-4,General Purpose MG,7.62×54mmR,4.0kg,464m,800m/s,950 rpm,Soviet Union,1966,Kalashnikov,Long-stroke gas piston,30-round mag
+M4 Carbine Compact-7,Carbine,5.56×45mm NATO,3.52kg,504m,912m/s,650 rpm,USA,2015,Colt,"Gas-operated, rotating bolt",30-round mag
+HK416 Heavy-2,Assault Rifle,5.56×45mm NATO,3.15kg,479m,876m/s,950 rpm,Germany,2014,Heckler & Koch,Short-stroke gas piston,30-round mag
+FAMAS Heavy-8,Assault Rifle,5.56×45mm NATO,3.8kg,537m,902m/s,700 rpm,France,1995,GIAT,Lever-delayed blowback,30-round mag
+M4 Carbine Custom-7,Carbine,5.56×45mm NATO,3.55kg,452m,892m/s,700 rpm,USA,2008,Colt,"Gas-operated, rotating bolt",30-round mag
+Spec-Ops HK416,Assault Rifle,5.56×45mm NATO,3.91kg,548m,878m/s,650 rpm,Germany,1945,Heckler & Koch,Short-stroke gas piston,30-round mag
+M16A4 Spec-Ops-6,Assault Rifle,5.56×45mm NATO,3.31kg,462m,857m/s,700 rpm,USA,1947,Colt,"Gas-operated, rotating bolt",30-round mag
+Recon HK416,Assault Rifle,5.56×45mm NATO,3.08kg,477m,891m/s,950 rpm,Germany,2004,Heckler & Koch,Short-stroke gas piston,30-round mag
+AK-47 Modernized-9,Assault Rifle,7.62×39mm,3.13kg,546m,764m/s,1000 rpm,Soviet Union,1958,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Uzi Recon-8,Submachine Gun,9×19mm,3.9kg,186m,384m/s,1200 rpm,Israel,2010,IMI,Blowback,30-round mag
+HK416 Night-Ops-1,Assault Rifle,5.56×45mm NATO,3.73kg,497m,923m/s,950 rpm,Germany,2010,Heckler & Koch,Short-stroke gas piston,30-round mag
+Glock 17 Night-Ops-8,Pistol,9×19mm,0.8kg,45m,360m/s,Semi-automatic,Austria,1952,Glock,"Short recoil, locked breech",20-round detachable mag
+Steyr AUG Elite-7,Assault Rifle,5.56×45mm NATO,3.24kg,542m,867m/s,1200 rpm,Austria,1969,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Glock 17 Tactical-7,Pistol,9×19mm,0.81kg,45m,355m/s,Semi-automatic,Austria,2011,Glock,"Short recoil, locked breech",8-round detachable mag
+M1 Garand Modernized-2,Battle Rifle,.30-06 Springfield,3.69kg,461m,929m/s,1200 rpm,USA,2001,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M1911 Heavy-2,Pistol,.45 ACP,0.69kg,50m,356m/s,Semi-automatic,USA,1985,Colt,"Short recoil, locked breech",11-round detachable mag
+G3 Custom-7,Battle Rifle,7.62×51mm NATO,3.14kg,519m,768m/s,650 rpm,Germany,1981,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+FAMAS Heavy-5,Assault Rifle,5.56×45mm NATO,3.95kg,499m,901m/s,800 rpm,France,1976,GIAT,Lever-delayed blowback,30-round mag
+AK-47 Compact-9,Assault Rifle,7.62×39mm,3.2kg,529m,788m/s,950 rpm,Soviet Union,1966,Izhmash,"Gas-operated, rotating bolt",30-round mag
+SIG MCX Night-Ops-7,Assault Rifle,5.56×45mm NATO,3.49kg,523m,939m/s,1000 rpm,USA,2019,SIG Sauer,Short-stroke gas piston,30-round mag
+Recon M16A4,Assault Rifle,5.56×45mm NATO,2.98kg,487m,890m/s,650 rpm,USA,2003,Colt,"Gas-operated, rotating bolt",30-round mag
+PKM Elite-4,General Purpose MG,7.62×54mmR,3.39kg,466m,790m/s,1000 rpm,Soviet Union,1996,Kalashnikov,Long-stroke gas piston,30-round mag
+Steyr AUG Spec-Ops-6,Assault Rifle,5.56×45mm NATO,3.81kg,461m,869m/s,800 rpm,Austria,2013,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Recon Beretta ARX160,Assault Rifle,5.56×45mm NATO,3.82kg,531m,931m/s,800 rpm,Italy,1994,Beretta,Short-stroke gas piston,30-round mag
+SIG MCX Compact-6,Assault Rifle,5.56×45mm NATO,3.05kg,549m,883m/s,600 rpm,USA,1945,SIG Sauer,Short-stroke gas piston,30-round mag
+M240 Night-Ops-7,General Purpose MG,7.62×51mm NATO,3.02kg,463m,837m/s,900 rpm,USA/Belgium,1947,FN Herstal,Short-stroke gas piston,30-round mag
+M1 Garand Recon-5,Battle Rifle,.30-06 Springfield,3.02kg,540m,869m/s,800 rpm,USA,2016,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+PKM Spec-Ops-3,General Purpose MG,7.62×54mmR,3.56kg,476m,787m/s,800 rpm,Soviet Union,1988,Kalashnikov,Long-stroke gas piston,30-round mag
+M14 CQC-9,Battle Rifle,7.62×51mm NATO,3.72kg,496m,832m/s,900 rpm,USA,1960,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Compact Barrett M82,Anti-materiel rifle,.50 BMG,12.63kg,1884m,1228m/s,43 rpm,USA,1999,Barrett,Short-recoil,10-round detachable mag
+MG42 Elite-4,General Purpose MG,7.92×57mm Mauser,3.76kg,530m,878m/s,600 rpm,Germany,2014,Mauser,Short-stroke gas piston,30-round mag
+FN SCAR-L Compact-7,Assault Rifle,5.56×45mm NATO,3.05kg,472m,920m/s,600 rpm,Belgium,1978,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+MP5 SOPMOD-9,Submachine Gun,9×19mm,3.26kg,204m,386m/s,900 rpm,Germany,1956,Heckler & Koch,Roller-delayed blowback,30-round mag
+Mk II HK416,Assault Rifle,5.56×45mm NATO,3.41kg,508m,941m/s,900 rpm,Germany,1945,Heckler & Koch,Short-stroke gas piston,30-round mag
+Custom Glock 17,Pistol,9×19mm,0.85kg,53m,356m/s,Semi-automatic,Austria,2000,Glock,"Short recoil, locked breech",18-round detachable mag
+M16A4 Night-Ops-7,Assault Rifle,5.56×45mm NATO,3.7kg,535m,882m/s,1200 rpm,USA,1991,Colt,"Gas-operated, rotating bolt",30-round mag
+Recon FAMAS,Assault Rifle,5.56×45mm NATO,3.67kg,454m,905m/s,950 rpm,France,1981,GIAT,Lever-delayed blowback,30-round mag
+M4 Carbine Custom-5,Carbine,5.56×45mm NATO,3.98kg,548m,861m/s,700 rpm,USA,1973,Colt,"Gas-operated, rotating bolt",30-round mag
+MG42 Elite-4,General Purpose MG,7.92×57mm Mauser,3.63kg,500m,938m/s,1000 rpm,Germany,2001,Mauser,Short-stroke gas piston,30-round mag
+Custom Beretta ARX160,Assault Rifle,5.56×45mm NATO,3.2kg,535m,923m/s,700 rpm,Italy,1966,Beretta,Short-stroke gas piston,30-round mag
+FN SCAR-L CQC-3,Assault Rifle,5.56×45mm NATO,3.33kg,461m,920m/s,950 rpm,Belgium,1987,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+Barrett M82 Recon-5,Anti-materiel rifle,.50 BMG,13.69kg,1741m,1253m/s,50 rpm,USA,2004,Barrett,Short-recoil,10-round detachable mag
+MG42 Compact-2,General Purpose MG,7.92×57mm Mauser,3.29kg,487m,886m/s,600 rpm,Germany,2018,Mauser,Short-stroke gas piston,30-round mag
+FAMAS CQC-8,Assault Rifle,5.56×45mm NATO,3.2kg,457m,900m/s,650 rpm,France,2011,GIAT,Lever-delayed blowback,30-round mag
+M14 Heavy-7,Battle Rifle,7.62×51mm NATO,3.54kg,478m,836m/s,600 rpm,USA,1994,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+AK-47 Recon-7,Assault Rifle,7.62×39mm,3.87kg,534m,827m/s,950 rpm,Soviet Union,1971,Izhmash,"Gas-operated, rotating bolt",30-round mag
+CQC FAMAS,Assault Rifle,5.56×45mm NATO,3.16kg,520m,859m/s,900 rpm,France,1992,GIAT,Lever-delayed blowback,30-round mag
+M1911 CQC-1,Pistol,.45 ACP,0.69kg,46m,362m/s,Semi-automatic,USA,1998,Colt,"Short recoil, locked breech",14-round detachable mag
+IWI Tavor Custom-6,Assault Rifle,5.56×45mm NATO,3.74kg,537m,893m/s,800 rpm,Israel,1956,IWI,Long-stroke gas piston,30-round mag
+Compact Barrett M82,Anti-materiel rifle,.50 BMG,13.1kg,1848m,1153m/s,42 rpm,USA,2015,Barrett,Short-recoil,10-round detachable mag
+MP5 Elite-8,Submachine Gun,9×19mm,3.31kg,213m,411m/s,700 rpm,Germany,2020,Heckler & Koch,Roller-delayed blowback,30-round mag
+Mk II M1911,Pistol,.45 ACP,0.81kg,52m,352m/s,Semi-automatic,USA,1990,Colt,"Short recoil, locked breech",18-round detachable mag
+MG42 Mk II-2,General Purpose MG,7.92×57mm Mauser,3.19kg,461m,937m/s,700 rpm,Germany,1954,Mauser,Short-stroke gas piston,30-round mag
+FAMAS SOPMOD-7,Assault Rifle,5.56×45mm NATO,3.0kg,493m,857m/s,1200 rpm,France,2024,GIAT,Lever-delayed blowback,30-round mag
+CQC M249 SAW,Light Machine Gun,5.56×45mm NATO,10.26kg,932m,867m/s,1000 rpm,USA,1980,FN Herstal,"Gas-operated, rotating bolt",100-round belt
+Steyr AUG SOPMOD-3,Assault Rifle,5.56×45mm NATO,3.92kg,523m,914m/s,900 rpm,Austria,1998,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Uzi Mk II-1,Submachine Gun,9×19mm,3.09kg,219m,384m/s,800 rpm,Israel,1956,IMI,Blowback,30-round mag
+Spec-Ops M4 Carbine,Carbine,5.56×45mm NATO,3.83kg,515m,911m/s,650 rpm,USA,1946,Colt,"Gas-operated, rotating bolt",30-round mag
+FN FAL Custom-5,Battle Rifle,7.62×51mm NATO,3.67kg,489m,767m/s,800 rpm,Belgium,1988,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Uzi CQC-7,Submachine Gun,9×19mm,3.14kg,190m,415m/s,900 rpm,Israel,1955,IMI,Blowback,30-round mag
+Steyr AUG SOPMOD-3,Assault Rifle,5.56×45mm NATO,3.09kg,488m,896m/s,1200 rpm,Austria,1964,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+MP5 Elite-5,Submachine Gun,9×19mm,3.9kg,183m,381m/s,700 rpm,Germany,1977,Heckler & Koch,Roller-delayed blowback,30-round mag
+SOPMOD Barrett M82,Anti-materiel rifle,.50 BMG,14.02kg,1796m,1160m/s,38 rpm,USA,2011,Barrett,Short-recoil,10-round detachable mag
+M14 Custom-2,Battle Rifle,7.62×51mm NATO,3.79kg,507m,808m/s,650 rpm,USA,1958,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+FN SCAR-L Heavy-6,Assault Rifle,5.56×45mm NATO,3.32kg,513m,886m/s,1000 rpm,Belgium,1987,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+HK416 Mk II-6,Assault Rifle,5.56×45mm NATO,3.92kg,498m,935m/s,900 rpm,Germany,2018,Heckler & Koch,Short-stroke gas piston,30-round mag
+HK416 Elite-2,Assault Rifle,5.56×45mm NATO,3.16kg,451m,941m/s,600 rpm,Germany,1961,Heckler & Koch,Short-stroke gas piston,30-round mag
+Elite MG42,General Purpose MG,7.92×57mm Mauser,3.42kg,502m,929m/s,900 rpm,Germany,1964,Mauser,Short-stroke gas piston,30-round mag
+M1 Garand Recon-2,Battle Rifle,.30-06 Springfield,3.47kg,543m,913m/s,900 rpm,USA,1977,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M240 Spec-Ops-9,General Purpose MG,7.62×51mm NATO,3.19kg,537m,777m/s,900 rpm,USA/Belgium,1988,FN Herstal,Short-stroke gas piston,30-round mag
+FAMAS Mk II-9,Assault Rifle,5.56×45mm NATO,3.75kg,480m,926m/s,600 rpm,France,2005,GIAT,Lever-delayed blowback,30-round mag
+FAMAS Night-Ops-8,Assault Rifle,5.56×45mm NATO,3.58kg,477m,937m/s,700 rpm,France,2015,GIAT,Lever-delayed blowback,30-round mag
+PKM Custom-2,General Purpose MG,7.62×54mmR,3.62kg,491m,810m/s,700 rpm,Soviet Union,1995,Kalashnikov,Long-stroke gas piston,30-round mag
+SIG MCX Night-Ops-5,Assault Rifle,5.56×45mm NATO,3.77kg,517m,924m/s,950 rpm,USA,1993,SIG Sauer,Short-stroke gas piston,30-round mag
+IWI Tavor Heavy-6,Assault Rifle,5.56×45mm NATO,3.83kg,521m,906m/s,1200 rpm,Israel,1958,IWI,Long-stroke gas piston,30-round mag
+Night-Ops M14,Battle Rifle,7.62×51mm NATO,3.35kg,460m,761m/s,900 rpm,USA,1954,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M14 Night-Ops-4,Battle Rifle,7.62×51mm NATO,4.0kg,547m,837m/s,1000 rpm,USA,2022,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Recon PKM,General Purpose MG,7.62×54mmR,3.23kg,508m,800m/s,800 rpm,Soviet Union,1983,Kalashnikov,Long-stroke gas piston,30-round mag
+FN FAL Tactical-5,Battle Rifle,7.62×51mm NATO,3.0kg,475m,820m/s,650 rpm,Belgium,2001,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Steyr AUG SOPMOD-2,Assault Rifle,5.56×45mm NATO,3.09kg,456m,868m/s,1000 rpm,Austria,2002,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+MG42 Modernized-9,General Purpose MG,7.92×57mm Mauser,3.79kg,456m,930m/s,950 rpm,Germany,2014,Mauser,Short-stroke gas piston,30-round mag
+Heavy G3,Battle Rifle,7.62×51mm NATO,3.75kg,479m,832m/s,800 rpm,Germany,2006,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+IWI Tavor Mk II-3,Assault Rifle,5.56×45mm NATO,3.27kg,473m,922m/s,800 rpm,Israel,1963,IWI,Long-stroke gas piston,30-round mag
+PKM Night-Ops-6,General Purpose MG,7.62×54mmR,3.37kg,530m,830m/s,650 rpm,Soviet Union,1975,Kalashnikov,Long-stroke gas piston,30-round mag
+Glock 17 Tactical-4,Pistol,9×19mm,0.91kg,45m,363m/s,Semi-automatic,Austria,1966,Glock,"Short recoil, locked breech",9-round detachable mag
+Glock 17 Tactical-2,Pistol,9×19mm,0.79kg,45m,338m/s,Semi-automatic,Austria,1950,Glock,"Short recoil, locked breech",19-round detachable mag
+MG42 SOPMOD-4,General Purpose MG,7.92×57mm Mauser,3.15kg,527m,905m/s,700 rpm,Germany,2020,Mauser,Short-stroke gas piston,30-round mag
+SOPMOD MP5,Submachine Gun,9×19mm,3.01kg,215m,415m/s,900 rpm,Germany,1979,Heckler & Koch,Roller-delayed blowback,30-round mag
+MP5 Spec-Ops-5,Submachine Gun,9×19mm,3.57kg,205m,402m/s,950 rpm,Germany,1961,Heckler & Koch,Roller-delayed blowback,30-round mag
+G3 Mk II-6,Battle Rifle,7.62×51mm NATO,3.46kg,515m,794m/s,600 rpm,Germany,2024,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+FAMAS Night-Ops-7,Assault Rifle,5.56×45mm NATO,4.0kg,459m,855m/s,1000 rpm,France,1993,GIAT,Lever-delayed blowback,30-round mag
+M16A4 Night-Ops-5,Assault Rifle,5.56×45mm NATO,3.12kg,484m,911m/s,1000 rpm,USA,1945,Colt,"Gas-operated, rotating bolt",30-round mag
+MG42 SOPMOD-6,General Purpose MG,7.92×57mm Mauser,3.71kg,498m,932m/s,1000 rpm,Germany,1994,Mauser,Short-stroke gas piston,30-round mag
+M1911 Elite-4,Pistol,.45 ACP,0.84kg,52m,366m/s,Semi-automatic,USA,1964,Colt,"Short recoil, locked breech",13-round detachable mag
+M1911 Elite-4,Pistol,.45 ACP,0.87kg,48m,359m/s,Semi-automatic,USA,2007,Colt,"Short recoil, locked breech",14-round detachable mag
+IWI Tavor Night-Ops-3,Assault Rifle,5.56×45mm NATO,3.71kg,461m,931m/s,1200 rpm,Israel,1998,IWI,Long-stroke gas piston,30-round mag
+FN FAL Recon-5,Battle Rifle,7.62×51mm NATO,3.9kg,519m,790m/s,950 rpm,Belgium,1967,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+MG42 Spec-Ops-6,General Purpose MG,7.92×57mm Mauser,4.02kg,491m,855m/s,950 rpm,Germany,2020,Mauser,Short-stroke gas piston,30-round mag
+Elite FN SCAR-L,Assault Rifle,5.56×45mm NATO,3.01kg,478m,908m/s,950 rpm,Belgium,1980,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+AK-47 Heavy-1,Assault Rifle,7.62×39mm,3.66kg,528m,791m/s,600 rpm,Soviet Union,2022,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Recon FAMAS,Assault Rifle,5.56×45mm NATO,3.54kg,459m,888m/s,950 rpm,France,2007,GIAT,Lever-delayed blowback,30-round mag
+MP5 CQC-1,Submachine Gun,9×19mm,3.28kg,193m,405m/s,700 rpm,Germany,2006,Heckler & Koch,Roller-delayed blowback,30-round mag
+PKM Modernized-7,General Purpose MG,7.62×54mmR,3.83kg,528m,801m/s,650 rpm,Soviet Union,1946,Kalashnikov,Long-stroke gas piston,30-round mag
+Glock 17 Elite-9,Pistol,9×19mm,0.91kg,50m,359m/s,Semi-automatic,Austria,1975,Glock,"Short recoil, locked breech",19-round detachable mag
+G3 Spec-Ops-9,Battle Rifle,7.62×51mm NATO,3.73kg,451m,836m/s,600 rpm,Germany,1984,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+Elite Steyr AUG,Assault Rifle,5.56×45mm NATO,3.84kg,490m,943m/s,1000 rpm,Austria,1999,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+FN SCAR-L Spec-Ops-1,Assault Rifle,5.56×45mm NATO,3.75kg,462m,873m/s,650 rpm,Belgium,2001,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+SIG MCX Elite-6,Assault Rifle,5.56×45mm NATO,3.43kg,458m,858m/s,800 rpm,USA,1969,SIG Sauer,Short-stroke gas piston,30-round mag
+M1 Garand Recon-5,Battle Rifle,.30-06 Springfield,4.01kg,503m,902m/s,600 rpm,USA,2005,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Steyr AUG Recon-1,Assault Rifle,5.56×45mm NATO,3.33kg,498m,916m/s,800 rpm,Austria,2003,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+MP5 Elite-6,Submachine Gun,9×19mm,3.94kg,197m,407m/s,600 rpm,Germany,1999,Heckler & Koch,Roller-delayed blowback,30-round mag
+Modernized G3,Battle Rifle,7.62×51mm NATO,3.76kg,473m,792m/s,650 rpm,Germany,1993,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+Beretta ARX160 Compact-9,Assault Rifle,5.56×45mm NATO,3.31kg,484m,897m/s,600 rpm,Italy,1971,Beretta,Short-stroke gas piston,30-round mag
+M1 Garand Compact-3,Battle Rifle,.30-06 Springfield,3.11kg,543m,879m/s,700 rpm,USA,1997,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M14 Heavy-4,Battle Rifle,7.62×51mm NATO,3.97kg,491m,799m/s,650 rpm,USA,1950,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Custom MP5,Submachine Gun,9×19mm,3.73kg,213m,402m/s,650 rpm,Germany,1971,Heckler & Koch,Roller-delayed blowback,30-round mag
+FN FAL Modernized-8,Battle Rifle,7.62×51mm NATO,3.11kg,467m,833m/s,700 rpm,Belgium,2023,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+FN FAL Tactical-2,Battle Rifle,7.62×51mm NATO,3.19kg,546m,768m/s,950 rpm,Belgium,1959,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Modernized FN SCAR-L,Assault Rifle,5.56×45mm NATO,3.62kg,539m,910m/s,800 rpm,Belgium,2017,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+AK-47 Recon-1,Assault Rifle,7.62×39mm,3.33kg,471m,814m/s,700 rpm,Soviet Union,1953,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M4 Carbine Mk II-5,Carbine,5.56×45mm NATO,4.0kg,515m,931m/s,900 rpm,USA,1976,Colt,"Gas-operated, rotating bolt",30-round mag
+SIG MCX Modernized-3,Assault Rifle,5.56×45mm NATO,3.74kg,478m,886m/s,800 rpm,USA,2002,SIG Sauer,Short-stroke gas piston,30-round mag
+M240 CQC-3,General Purpose MG,7.62×51mm NATO,2.99kg,478m,793m/s,1000 rpm,USA/Belgium,1953,FN Herstal,Short-stroke gas piston,30-round mag
+Heavy Glock 17,Pistol,9×19mm,0.78kg,49m,338m/s,Semi-automatic,Austria,1961,Glock,"Short recoil, locked breech",11-round detachable mag
+M249 SAW CQC-2,Light Machine Gun,5.56×45mm NATO,9.77kg,952m,898m/s,950 rpm,USA,1967,FN Herstal,"Gas-operated, rotating bolt",100-round belt
+SIG MCX CQC-2,Assault Rifle,5.56×45mm NATO,3.52kg,537m,932m/s,700 rpm,USA,1987,SIG Sauer,Short-stroke gas piston,30-round mag
+MG42 Custom-7,General Purpose MG,7.92×57mm Mauser,3.67kg,489m,900m/s,700 rpm,Germany,1999,Mauser,Short-stroke gas piston,30-round mag
+Custom Uzi,Submachine Gun,9×19mm,3.01kg,192m,419m/s,700 rpm,Israel,1971,IMI,Blowback,30-round mag
+MP5 Heavy-9,Submachine Gun,9×19mm,3.18kg,188m,397m/s,950 rpm,Germany,2017,Heckler & Koch,Roller-delayed blowback,30-round mag
+Glock 17 Custom-3,Pistol,9×19mm,0.78kg,53m,349m/s,Semi-automatic,Austria,1958,Glock,"Short recoil, locked breech",12-round detachable mag
+FN FAL Compact-3,Battle Rifle,7.62×51mm NATO,3.65kg,494m,816m/s,1200 rpm,Belgium,2007,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+SOPMOD M1911,Pistol,.45 ACP,0.68kg,50m,338m/s,Semi-automatic,USA,2008,Colt,"Short recoil, locked breech",10-round detachable mag
+M249 SAW Heavy-2,Light Machine Gun,5.56×45mm NATO,9.34kg,1082m,869m/s,1000 rpm,USA,2001,FN Herstal,"Gas-operated, rotating bolt",100-round belt
+Beretta ARX160 Heavy-9,Assault Rifle,5.56×45mm NATO,3.92kg,531m,884m/s,600 rpm,Italy,1989,Beretta,Short-stroke gas piston,30-round mag
+FAMAS Mk II-1,Assault Rifle,5.56×45mm NATO,3.24kg,467m,904m/s,900 rpm,France,1995,GIAT,Lever-delayed blowback,30-round mag
+Steyr AUG Spec-Ops-6,Assault Rifle,5.56×45mm NATO,3.83kg,524m,931m/s,1000 rpm,Austria,1962,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+FN FAL Custom-5,Battle Rifle,7.62×51mm NATO,3.04kg,527m,801m/s,1200 rpm,Belgium,1994,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+FAMAS Tactical-1,Assault Rifle,5.56×45mm NATO,3.38kg,489m,855m/s,600 rpm,France,1970,GIAT,Lever-delayed blowback,30-round mag
+M249 SAW Compact-8,Light Machine Gun,5.56×45mm NATO,8.18kg,994m,935m/s,1200 rpm,USA,1953,FN Herstal,"Gas-operated, rotating bolt",Belt-fed
+G3 Custom-3,Battle Rifle,7.62×51mm NATO,3.49kg,469m,790m/s,600 rpm,Germany,1990,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+Night-Ops MP5,Submachine Gun,9×19mm,3.33kg,183m,393m/s,650 rpm,Germany,1982,Heckler & Koch,Roller-delayed blowback,30-round mag
+Steyr AUG Spec-Ops-4,Assault Rifle,5.56×45mm NATO,2.99kg,460m,882m/s,1000 rpm,Austria,1966,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M4 Carbine Tactical-2,Carbine,5.56×45mm NATO,3.71kg,503m,902m/s,650 rpm,USA,2023,Colt,"Gas-operated, rotating bolt",30-round mag
+M16A4 Heavy-7,Assault Rifle,5.56×45mm NATO,3.61kg,516m,912m/s,700 rpm,USA,1968,Colt,"Gas-operated, rotating bolt",30-round mag
+MP5 Modernized-2,Submachine Gun,9×19mm,3.11kg,192m,385m/s,950 rpm,Germany,2010,Heckler & Koch,Roller-delayed blowback,30-round mag
+MG42 Mk II-4,General Purpose MG,7.92×57mm Mauser,3.37kg,527m,922m/s,1000 rpm,Germany,1973,Mauser,Short-stroke gas piston,30-round mag
+FAMAS Recon-8,Assault Rifle,5.56×45mm NATO,3.38kg,547m,933m/s,1000 rpm,France,1999,GIAT,Lever-delayed blowback,30-round mag
+MG42 Spec-Ops-9,General Purpose MG,7.92×57mm Mauser,3.59kg,468m,888m/s,650 rpm,Germany,2021,Mauser,Short-stroke gas piston,30-round mag
+MP5 CQC-3,Submachine Gun,9×19mm,3.85kg,193m,388m/s,700 rpm,Germany,1957,Heckler & Koch,Roller-delayed blowback,30-round mag
+Uzi Night-Ops-5,Submachine Gun,9×19mm,3.63kg,193m,400m/s,1200 rpm,Israel,1947,IMI,Blowback,30-round mag
+Steyr AUG Compact-3,Assault Rifle,5.56×45mm NATO,3.03kg,469m,938m/s,600 rpm,Austria,1956,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+AK-47 Recon-7,Assault Rifle,7.62×39mm,3.61kg,549m,835m/s,1200 rpm,Soviet Union,1976,Izhmash,"Gas-operated, rotating bolt",30-round mag
+MP5 CQC-7,Submachine Gun,9×19mm,3.15kg,214m,416m/s,600 rpm,Germany,1997,Heckler & Koch,Roller-delayed blowback,30-round mag
+M240 Tactical-8,General Purpose MG,7.62×51mm NATO,3.57kg,479m,771m/s,900 rpm,USA/Belgium,2012,FN Herstal,Short-stroke gas piston,30-round mag
+SIG MCX SOPMOD-5,Assault Rifle,5.56×45mm NATO,3.68kg,465m,866m/s,650 rpm,USA,1989,SIG Sauer,Short-stroke gas piston,30-round mag
+Beretta ARX160 Modernized-8,Assault Rifle,5.56×45mm NATO,4.02kg,480m,918m/s,600 rpm,Italy,2014,Beretta,Short-stroke gas piston,30-round mag
+M16A4 Compact-8,Assault Rifle,5.56×45mm NATO,3.81kg,519m,876m/s,1200 rpm,USA,1950,Colt,"Gas-operated, rotating bolt",30-round mag
+M1 Garand Spec-Ops-5,Battle Rifle,.30-06 Springfield,3.74kg,541m,944m/s,650 rpm,USA,1997,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Night-Ops Barrett M82,Anti-materiel rifle,.50 BMG,11.77kg,1835m,1140m/s,32 rpm,USA,2008,Barrett,Short-recoil,10-round detachable mag
+M240 Mk II-6,General Purpose MG,7.62×51mm NATO,3.23kg,531m,802m/s,1200 rpm,USA/Belgium,2013,FN Herstal,Short-stroke gas piston,30-round mag
+M249 SAW Heavy-3,Light Machine Gun,5.56×45mm NATO,8.64kg,1014m,894m/s,700 rpm,USA,1947,FN Herstal,"Gas-operated, rotating bolt",Belt-fed
+HK416 Elite-9,Assault Rifle,5.56×45mm NATO,3.77kg,517m,872m/s,650 rpm,Germany,1984,Heckler & Koch,Short-stroke gas piston,30-round mag
+AK-47 Recon-3,Assault Rifle,7.62×39mm,3.61kg,543m,800m/s,600 rpm,Soviet Union,2017,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M4 Carbine Recon-8,Carbine,5.56×45mm NATO,3.35kg,497m,939m/s,600 rpm,USA,1986,Colt,"Gas-operated, rotating bolt",30-round mag
+M1911 Compact-9,Pistol,.45 ACP,0.79kg,47m,334m/s,Semi-automatic,USA,1967,Colt,"Short recoil, locked breech",13-round detachable mag
+FN SCAR-L Elite-9,Assault Rifle,5.56×45mm NATO,3.68kg,475m,856m/s,600 rpm,Belgium,1974,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+HK416 Custom-1,Assault Rifle,5.56×45mm NATO,3.62kg,507m,857m/s,800 rpm,Germany,1985,Heckler & Koch,Short-stroke gas piston,30-round mag
+HK416 Compact-7,Assault Rifle,5.56×45mm NATO,3.94kg,465m,918m/s,800 rpm,Germany,2021,Heckler & Koch,Short-stroke gas piston,30-round mag
+HK416 Heavy-1,Assault Rifle,5.56×45mm NATO,3.43kg,501m,859m/s,800 rpm,Germany,1987,Heckler & Koch,Short-stroke gas piston,30-round mag
+MG42 CQC-8,General Purpose MG,7.92×57mm Mauser,3.35kg,500m,923m/s,800 rpm,Germany,2008,Mauser,Short-stroke gas piston,30-round mag
+AK-47 Tactical-3,Assault Rifle,7.62×39mm,3.85kg,532m,779m/s,700 rpm,Soviet Union,1975,Izhmash,"Gas-operated, rotating bolt",30-round mag
+IWI Tavor Night-Ops-4,Assault Rifle,5.56×45mm NATO,3.3kg,522m,913m/s,950 rpm,Israel,1983,IWI,Long-stroke gas piston,30-round mag
+Steyr AUG Modernized-7,Assault Rifle,5.56×45mm NATO,3.56kg,473m,880m/s,1000 rpm,Austria,2011,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M240 Tactical-4,General Purpose MG,7.62×51mm NATO,3.83kg,470m,764m/s,1000 rpm,USA/Belgium,2008,FN Herstal,Short-stroke gas piston,30-round mag
+Steyr AUG CQC-2,Assault Rifle,5.56×45mm NATO,3.79kg,496m,936m/s,800 rpm,Austria,1964,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+MG42 Night-Ops-2,General Purpose MG,7.92×57mm Mauser,3.5kg,520m,898m/s,650 rpm,Germany,1945,Mauser,Short-stroke gas piston,30-round mag
+FN SCAR-L SOPMOD-6,Assault Rifle,5.56×45mm NATO,3.55kg,510m,919m/s,950 rpm,Belgium,1970,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+PKM Recon-3,General Purpose MG,7.62×54mmR,3.52kg,542m,826m/s,600 rpm,Soviet Union,1988,Kalashnikov,Long-stroke gas piston,30-round mag
+Modernized M16A4,Assault Rifle,5.56×45mm NATO,3.93kg,544m,937m/s,700 rpm,USA,1948,Colt,"Gas-operated, rotating bolt",30-round mag
+IWI Tavor Mk II-8,Assault Rifle,5.56×45mm NATO,3.02kg,484m,934m/s,1000 rpm,Israel,1954,IWI,Long-stroke gas piston,30-round mag
+M1911 Modernized-4,Pistol,.45 ACP,0.72kg,45m,356m/s,Semi-automatic,USA,2014,Colt,"Short recoil, locked breech",18-round detachable mag
+G3 Custom-3,Battle Rifle,7.62×51mm NATO,3.07kg,495m,805m/s,1200 rpm,Germany,1993,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+IWI Tavor Recon-3,Assault Rifle,5.56×45mm NATO,3.36kg,499m,895m/s,800 rpm,Israel,1947,IWI,Long-stroke gas piston,30-round mag
+Uzi Mk II-3,Submachine Gun,9×19mm,3.23kg,182m,406m/s,700 rpm,Israel,1963,IMI,Blowback,30-round mag
+CQC Barrett M82,Anti-materiel rifle,.50 BMG,13.06kg,1950m,1201m/s,35 rpm,USA,1961,Barrett,Short-recoil,10-round detachable mag
+IWI Tavor Mk II-3,Assault Rifle,5.56×45mm NATO,3.07kg,505m,898m/s,1200 rpm,Israel,2007,IWI,Long-stroke gas piston,30-round mag
+M240 Spec-Ops-6,General Purpose MG,7.62×51mm NATO,3.72kg,464m,776m/s,900 rpm,USA/Belgium,2010,FN Herstal,Short-stroke gas piston,30-round mag
+Barrett M82 SOPMOD-9,Anti-materiel rifle,.50 BMG,14.44kg,1631m,1177m/s,44 rpm,USA,2020,Barrett,Short-recoil,10-round detachable mag
+AK-47 Spec-Ops-8,Assault Rifle,7.62×39mm,3.69kg,499m,780m/s,1000 rpm,Soviet Union,1954,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Mk II SIG MCX,Assault Rifle,5.56×45mm NATO,3.23kg,544m,869m/s,700 rpm,USA,1995,SIG Sauer,Short-stroke gas piston,30-round mag
+M14 Tactical-7,Battle Rifle,7.62×51mm NATO,3.96kg,524m,800m/s,950 rpm,USA,2023,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M249 SAW Compact-5,Light Machine Gun,5.56×45mm NATO,7.69kg,1043m,941m/s,800 rpm,USA,1999,FN Herstal,"Gas-operated, rotating bolt",Belt-fed
+AK-47 Elite-5,Assault Rifle,7.62×39mm,3.69kg,503m,806m/s,800 rpm,Soviet Union,2020,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M14 Modernized-4,Battle Rifle,7.62×51mm NATO,3.07kg,483m,820m/s,650 rpm,USA,1983,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Steyr AUG Elite-1,Assault Rifle,5.56×45mm NATO,3.65kg,525m,907m/s,900 rpm,Austria,1961,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Steyr AUG Spec-Ops-9,Assault Rifle,5.56×45mm NATO,3.04kg,545m,866m/s,700 rpm,Austria,2010,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M249 SAW Custom-7,Light Machine Gun,5.56×45mm NATO,8.4kg,923m,886m/s,650 rpm,USA,1982,FN Herstal,"Gas-operated, rotating bolt",200-round box
+SIG MCX Elite-9,Assault Rifle,5.56×45mm NATO,3.74kg,544m,935m/s,1200 rpm,USA,1991,SIG Sauer,Short-stroke gas piston,30-round mag
+Steyr AUG CQC-4,Assault Rifle,5.56×45mm NATO,3.04kg,515m,940m/s,1000 rpm,Austria,1981,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+FN FAL Recon-8,Battle Rifle,7.62×51mm NATO,3.97kg,524m,816m/s,950 rpm,Belgium,2005,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M16A4 Custom-4,Assault Rifle,5.56×45mm NATO,3.8kg,459m,931m/s,600 rpm,USA,1986,Colt,"Gas-operated, rotating bolt",30-round mag
+G3 CQC-7,Battle Rifle,7.62×51mm NATO,3.68kg,505m,824m/s,1200 rpm,Germany,1988,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+M249 SAW Modernized-1,Light Machine Gun,5.56×45mm NATO,8.3kg,1078m,879m/s,1000 rpm,USA,1988,FN Herstal,"Gas-operated, rotating bolt",200-round box
+MP5 Elite-1,Submachine Gun,9×19mm,3.18kg,188m,416m/s,1200 rpm,Germany,2014,Heckler & Koch,Roller-delayed blowback,30-round mag
+FAMAS Modernized-6,Assault Rifle,5.56×45mm NATO,3.67kg,471m,865m/s,900 rpm,France,1977,GIAT,Lever-delayed blowback,30-round mag
+SOPMOD SIG MCX,Assault Rifle,5.56×45mm NATO,3.6kg,469m,902m/s,1000 rpm,USA,2010,SIG Sauer,Short-stroke gas piston,30-round mag
+M240 CQC-7,General Purpose MG,7.62×51mm NATO,3.03kg,497m,825m/s,600 rpm,USA/Belgium,1997,FN Herstal,Short-stroke gas piston,30-round mag
+Barrett M82 CQC-2,Anti-materiel rifle,.50 BMG,14.18kg,1864m,1247m/s,30 rpm,USA,1958,Barrett,Short-recoil,10-round detachable mag
+M1 Garand Custom-7,Battle Rifle,.30-06 Springfield,3.17kg,536m,898m/s,950 rpm,USA,2024,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+HK416 Mk II-7,Assault Rifle,5.56×45mm NATO,3.93kg,494m,880m/s,600 rpm,Germany,1989,Heckler & Koch,Short-stroke gas piston,30-round mag
+SIG MCX Elite-3,Assault Rifle,5.56×45mm NATO,3.07kg,519m,940m/s,950 rpm,USA,1979,SIG Sauer,Short-stroke gas piston,30-round mag
+G3 Modernized-1,Battle Rifle,7.62×51mm NATO,3.14kg,488m,823m/s,800 rpm,Germany,1987,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+M14 SOPMOD-6,Battle Rifle,7.62×51mm NATO,3.3kg,480m,764m/s,950 rpm,USA,2000,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+FAMAS SOPMOD-7,Assault Rifle,5.56×45mm NATO,3.79kg,483m,943m/s,800 rpm,France,1975,GIAT,Lever-delayed blowback,30-round mag
+FN FAL Elite-5,Battle Rifle,7.62×51mm NATO,3.66kg,483m,781m/s,700 rpm,Belgium,1973,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Recon FN FAL,Battle Rifle,7.62×51mm NATO,3.58kg,489m,804m/s,600 rpm,Belgium,2005,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M14 Recon-8,Battle Rifle,7.62×51mm NATO,3.52kg,485m,791m/s,800 rpm,USA,1957,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Beretta ARX160 Night-Ops-5,Assault Rifle,5.56×45mm NATO,3.2kg,511m,861m/s,600 rpm,Italy,2018,Beretta,Short-stroke gas piston,30-round mag
+FN SCAR-L Mk II-1,Assault Rifle,5.56×45mm NATO,3.85kg,495m,918m/s,700 rpm,Belgium,1995,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+M240 Spec-Ops-7,General Purpose MG,7.62×51mm NATO,3.82kg,471m,763m/s,1000 rpm,USA/Belgium,1956,FN Herstal,Short-stroke gas piston,30-round mag
+FN FAL Night-Ops-3,Battle Rifle,7.62×51mm NATO,4.0kg,479m,814m/s,800 rpm,Belgium,1961,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+MP5 Recon-8,Submachine Gun,9×19mm,3.98kg,181m,396m/s,1000 rpm,Germany,2011,Heckler & Koch,Roller-delayed blowback,30-round mag
+FN FAL Spec-Ops-2,Battle Rifle,7.62×51mm NATO,3.36kg,461m,770m/s,950 rpm,Belgium,1989,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Glock 17 SOPMOD-5,Pistol,9×19mm,0.75kg,52m,348m/s,Semi-automatic,Austria,1999,Glock,"Short recoil, locked breech",15-round detachable mag
+G3 Modernized-2,Battle Rifle,7.62×51mm NATO,3.26kg,482m,787m/s,700 rpm,Germany,2015,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+FAMAS Elite-2,Assault Rifle,5.56×45mm NATO,3.05kg,493m,867m/s,900 rpm,France,1952,GIAT,Lever-delayed blowback,30-round mag
+Uzi Mk II-9,Submachine Gun,9×19mm,4.02kg,187m,397m/s,1200 rpm,Israel,1972,IMI,Blowback,30-round mag
+MG42 SOPMOD-9,General Purpose MG,7.92×57mm Mauser,3.27kg,539m,937m/s,800 rpm,Germany,1967,Mauser,Short-stroke gas piston,30-round mag
+M249 SAW Custom-5,Light Machine Gun,5.56×45mm NATO,9.12kg,1056m,876m/s,1000 rpm,USA,2022,FN Herstal,"Gas-operated, rotating bolt",200-round box
+SIG MCX Modernized-1,Assault Rifle,5.56×45mm NATO,3.95kg,488m,913m/s,950 rpm,USA,1946,SIG Sauer,Short-stroke gas piston,30-round mag
+M1 Garand Tactical-8,Battle Rifle,.30-06 Springfield,3.5kg,471m,900m/s,1000 rpm,USA,2013,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+IWI Tavor CQC-8,Assault Rifle,5.56×45mm NATO,3.36kg,525m,924m/s,1000 rpm,Israel,1998,IWI,Long-stroke gas piston,30-round mag
+M4 Carbine Tactical-2,Carbine,5.56×45mm NATO,3.96kg,540m,858m/s,800 rpm,USA,1991,Colt,"Gas-operated, rotating bolt",30-round mag
+MP5 CQC-6,Submachine Gun,9×19mm,3.94kg,180m,401m/s,650 rpm,Germany,1968,Heckler & Koch,Roller-delayed blowback,30-round mag
+M4 Carbine Heavy-3,Carbine,5.56×45mm NATO,3.8kg,502m,869m/s,950 rpm,USA,2017,Colt,"Gas-operated, rotating bolt",30-round mag
+FN SCAR-L Heavy-3,Assault Rifle,5.56×45mm NATO,3.05kg,450m,889m/s,950 rpm,Belgium,1986,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+FAMAS Elite-5,Assault Rifle,5.56×45mm NATO,3.4kg,452m,892m/s,1200 rpm,France,2013,GIAT,Lever-delayed blowback,30-round mag
+Glock 17 Custom-6,Pistol,9×19mm,0.74kg,45m,357m/s,Semi-automatic,Austria,2017,Glock,"Short recoil, locked breech",14-round detachable mag
+Mk II M1911,Pistol,.45 ACP,0.83kg,45m,361m/s,Semi-automatic,USA,1963,Colt,"Short recoil, locked breech",14-round detachable mag
+AK-47 Compact-4,Assault Rifle,7.62×39mm,2.99kg,534m,782m/s,700 rpm,Soviet Union,1990,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Beretta ARX160 Modernized-5,Assault Rifle,5.56×45mm NATO,3.47kg,541m,866m/s,650 rpm,Italy,2021,Beretta,Short-stroke gas piston,30-round mag
+PKM Compact-3,General Purpose MG,7.62×54mmR,3.99kg,497m,790m/s,950 rpm,Soviet Union,1973,Kalashnikov,Long-stroke gas piston,30-round mag
+AK-47 SOPMOD-5,Assault Rifle,7.62×39mm,3.13kg,519m,812m/s,800 rpm,Soviet Union,2009,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M240 SOPMOD-3,General Purpose MG,7.62×51mm NATO,3.58kg,522m,772m/s,700 rpm,USA/Belgium,2014,FN Herstal,Short-stroke gas piston,30-round mag
+M1 Garand Spec-Ops-9,Battle Rifle,.30-06 Springfield,3.7kg,541m,881m/s,600 rpm,USA,1947,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+FN FAL Recon-8,Battle Rifle,7.62×51mm NATO,3.52kg,459m,787m/s,800 rpm,Belgium,1952,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M249 SAW Mk II-9,Light Machine Gun,5.56×45mm NATO,10.02kg,947m,931m/s,950 rpm,USA,2006,FN Herstal,"Gas-operated, rotating bolt",100-round belt
+Heavy Glock 17,Pistol,9×19mm,0.68kg,49m,360m/s,Semi-automatic,Austria,1945,Glock,"Short recoil, locked breech",18-round detachable mag
+M16A4 Tactical-7,Assault Rifle,5.56×45mm NATO,3.07kg,454m,878m/s,950 rpm,USA,1958,Colt,"Gas-operated, rotating bolt",30-round mag
+PKM Elite-1,General Purpose MG,7.62×54mmR,3.98kg,526m,800m/s,1000 rpm,Soviet Union,1994,Kalashnikov,Long-stroke gas piston,30-round mag
+FN SCAR-L SOPMOD-1,Assault Rifle,5.56×45mm NATO,3.99kg,475m,884m/s,800 rpm,Belgium,1973,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+MG42 Heavy-7,General Purpose MG,7.92×57mm Mauser,3.74kg,470m,885m/s,800 rpm,Germany,1984,Mauser,Short-stroke gas piston,30-round mag
+PKM Custom-7,General Purpose MG,7.62×54mmR,3.74kg,483m,799m/s,1000 rpm,Soviet Union,2006,Kalashnikov,Long-stroke gas piston,30-round mag
+FN SCAR-L Custom-5,Assault Rifle,5.56×45mm NATO,3.36kg,497m,913m/s,900 rpm,Belgium,1986,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+FAMAS CQC-6,Assault Rifle,5.56×45mm NATO,3.16kg,501m,856m/s,1200 rpm,France,1994,GIAT,Lever-delayed blowback,30-round mag
+HK416 Modernized-8,Assault Rifle,5.56×45mm NATO,3.15kg,467m,923m/s,650 rpm,Germany,2005,Heckler & Koch,Short-stroke gas piston,30-round mag
+Glock 17 Mk II-1,Pistol,9×19mm,0.85kg,52m,355m/s,Semi-automatic,Austria,2003,Glock,"Short recoil, locked breech",8-round detachable mag
+M249 SAW SOPMOD-8,Light Machine Gun,5.56×45mm NATO,9.64kg,978m,921m/s,900 rpm,USA,1957,FN Herstal,"Gas-operated, rotating bolt",Belt-fed
+M240 Compact-6,General Purpose MG,7.62×51mm NATO,3.47kg,529m,838m/s,950 rpm,USA/Belgium,2023,FN Herstal,Short-stroke gas piston,30-round mag
+Elite Uzi,Submachine Gun,9×19mm,3.0kg,205m,384m/s,700 rpm,Israel,1977,IMI,Blowback,30-round mag
+AK-47 Heavy-7,Assault Rifle,7.62×39mm,3.3kg,511m,778m/s,1200 rpm,Soviet Union,1957,Izhmash,"Gas-operated, rotating bolt",30-round mag
+IWI Tavor CQC-1,Assault Rifle,5.56×45mm NATO,2.99kg,536m,873m/s,1000 rpm,Israel,2003,IWI,Long-stroke gas piston,30-round mag
+Beretta ARX160 Modernized-6,Assault Rifle,5.56×45mm NATO,3.45kg,530m,880m/s,1000 rpm,Italy,2021,Beretta,Short-stroke gas piston,30-round mag
+Heavy AK-47,Assault Rifle,7.62×39mm,3.23kg,523m,821m/s,650 rpm,Soviet Union,1963,Izhmash,"Gas-operated, rotating bolt",30-round mag
+G3 CQC-5,Battle Rifle,7.62×51mm NATO,3.24kg,485m,788m/s,1200 rpm,Germany,1994,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+MG42 Recon-1,General Purpose MG,7.92×57mm Mauser,3.99kg,501m,890m/s,800 rpm,Germany,1965,Mauser,Short-stroke gas piston,30-round mag
+Glock 17 Spec-Ops-4,Pistol,9×19mm,0.72kg,48m,353m/s,Semi-automatic,Austria,1948,Glock,"Short recoil, locked breech",9-round detachable mag
+IWI Tavor CQC-8,Assault Rifle,5.56×45mm NATO,3.33kg,525m,892m/s,950 rpm,Israel,1949,IWI,Long-stroke gas piston,30-round mag
+MG42 Mk II-2,General Purpose MG,7.92×57mm Mauser,3.6kg,487m,887m/s,650 rpm,Germany,2015,Mauser,Short-stroke gas piston,30-round mag
+FN FAL Tactical-7,Battle Rifle,7.62×51mm NATO,3.61kg,473m,805m/s,900 rpm,Belgium,2019,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Elite FN FAL,Battle Rifle,7.62×51mm NATO,3.41kg,487m,813m/s,900 rpm,Belgium,2002,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+FN FAL Mk II-1,Battle Rifle,7.62×51mm NATO,3.48kg,471m,825m/s,600 rpm,Belgium,2020,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+HK416 Recon-2,Assault Rifle,5.56×45mm NATO,3.36kg,543m,869m/s,600 rpm,Germany,1991,Heckler & Koch,Short-stroke gas piston,30-round mag
+M1911 Tactical-6,Pistol,.45 ACP,0.74kg,48m,337m/s,Semi-automatic,USA,1971,Colt,"Short recoil, locked breech",20-round detachable mag
+AK-47 SOPMOD-7,Assault Rifle,7.62×39mm,3.05kg,529m,792m/s,950 rpm,Soviet Union,2019,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M14 SOPMOD-1,Battle Rifle,7.62×51mm NATO,3.75kg,454m,830m/s,600 rpm,USA,2001,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+MP5 Compact-7,Submachine Gun,9×19mm,3.8kg,191m,412m/s,600 rpm,Germany,1973,Heckler & Koch,Roller-delayed blowback,30-round mag
+M4 Carbine Custom-2,Carbine,5.56×45mm NATO,4.01kg,540m,868m/s,600 rpm,USA,1945,Colt,"Gas-operated, rotating bolt",30-round mag
+SOPMOD Beretta ARX160,Assault Rifle,5.56×45mm NATO,3.68kg,528m,855m/s,600 rpm,Italy,1956,Beretta,Short-stroke gas piston,30-round mag
+Uzi SOPMOD-2,Submachine Gun,9×19mm,3.3kg,188m,411m/s,900 rpm,Israel,1989,IMI,Blowback,30-round mag
+Beretta ARX160 Night-Ops-9,Assault Rifle,5.56×45mm NATO,3.86kg,519m,925m/s,1000 rpm,Italy,2018,Beretta,Short-stroke gas piston,30-round mag
+Steyr AUG Custom-8,Assault Rifle,5.56×45mm NATO,3.07kg,517m,933m/s,1000 rpm,Austria,2009,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+PKM Custom-2,General Purpose MG,7.62×54mmR,3.5kg,489m,770m/s,650 rpm,Soviet Union,1976,Kalashnikov,Long-stroke gas piston,30-round mag
+M4 Carbine Night-Ops-7,Carbine,5.56×45mm NATO,3.14kg,467m,860m/s,1200 rpm,USA,1965,Colt,"Gas-operated, rotating bolt",30-round mag
+Glock 17 Heavy-8,Pistol,9×19mm,0.89kg,52m,335m/s,Semi-automatic,Austria,2017,Glock,"Short recoil, locked breech",14-round detachable mag
+Mk II M4 Carbine,Carbine,5.56×45mm NATO,3.87kg,544m,912m/s,700 rpm,USA,2020,Colt,"Gas-operated, rotating bolt",30-round mag
+FAMAS Custom-3,Assault Rifle,5.56×45mm NATO,3.03kg,467m,865m/s,800 rpm,France,1999,GIAT,Lever-delayed blowback,30-round mag
+FN FAL Spec-Ops-1,Battle Rifle,7.62×51mm NATO,3.11kg,503m,837m/s,1200 rpm,Belgium,1987,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+CQC M1 Garand,Battle Rifle,.30-06 Springfield,3.93kg,476m,884m/s,900 rpm,USA,1948,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+SIG MCX Spec-Ops-3,Assault Rifle,5.56×45mm NATO,3.65kg,495m,873m/s,700 rpm,USA,1956,SIG Sauer,Short-stroke gas piston,30-round mag
+FAMAS Custom-9,Assault Rifle,5.56×45mm NATO,3.88kg,471m,922m/s,1000 rpm,France,1998,GIAT,Lever-delayed blowback,30-round mag
+M1911 Elite-2,Pistol,.45 ACP,0.91kg,45m,337m/s,Semi-automatic,USA,2002,Colt,"Short recoil, locked breech",19-round detachable mag
+CQC M249 SAW,Light Machine Gun,5.56×45mm NATO,9.25kg,908m,926m/s,800 rpm,USA,1995,FN Herstal,"Gas-operated, rotating bolt",Belt-fed
+CQC FAMAS,Assault Rifle,5.56×45mm NATO,3.99kg,507m,883m/s,950 rpm,France,1971,GIAT,Lever-delayed blowback,30-round mag
+FN SCAR-L Elite-5,Assault Rifle,5.56×45mm NATO,3.22kg,484m,861m/s,1000 rpm,Belgium,2005,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+M14 Custom-2,Battle Rifle,7.62×51mm NATO,3.45kg,459m,784m/s,1000 rpm,USA,1945,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+SOPMOD FN FAL,Battle Rifle,7.62×51mm NATO,3.59kg,501m,776m/s,600 rpm,Belgium,2008,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M1 Garand Elite-8,Battle Rifle,.30-06 Springfield,3.24kg,544m,860m/s,1000 rpm,USA,2018,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Mk II FAMAS,Assault Rifle,5.56×45mm NATO,3.91kg,486m,867m/s,1000 rpm,France,2010,GIAT,Lever-delayed blowback,30-round mag
+Beretta ARX160 Night-Ops-3,Assault Rifle,5.56×45mm NATO,3.51kg,465m,936m/s,700 rpm,Italy,1982,Beretta,Short-stroke gas piston,30-round mag
+AK-47 Night-Ops-8,Assault Rifle,7.62×39mm,3.9kg,451m,792m/s,1200 rpm,Soviet Union,2013,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Steyr AUG Compact-8,Assault Rifle,5.56×45mm NATO,3.89kg,463m,897m/s,600 rpm,Austria,1950,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Tactical MG42,General Purpose MG,7.92×57mm Mauser,3.19kg,480m,885m/s,650 rpm,Germany,1946,Mauser,Short-stroke gas piston,30-round mag
+M14 Elite-7,Battle Rifle,7.62×51mm NATO,3.63kg,514m,765m/s,950 rpm,USA,2020,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M249 SAW SOPMOD-8,Light Machine Gun,5.56×45mm NATO,8.0kg,957m,877m/s,1000 rpm,USA,1970,FN Herstal,"Gas-operated, rotating bolt",200-round box
+M1 Garand Heavy-5,Battle Rifle,.30-06 Springfield,3.4kg,517m,878m/s,950 rpm,USA,2007,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+SIG MCX Compact-6,Assault Rifle,5.56×45mm NATO,3.58kg,522m,911m/s,600 rpm,USA,2001,SIG Sauer,Short-stroke gas piston,30-round mag
+Tactical Glock 17,Pistol,9×19mm,0.83kg,52m,340m/s,Semi-automatic,Austria,1952,Glock,"Short recoil, locked breech",10-round detachable mag
+FAMAS SOPMOD-8,Assault Rifle,5.56×45mm NATO,3.48kg,482m,857m/s,800 rpm,France,1973,GIAT,Lever-delayed blowback,30-round mag
+HK416 Custom-8,Assault Rifle,5.56×45mm NATO,3.59kg,465m,870m/s,1200 rpm,Germany,1955,Heckler & Koch,Short-stroke gas piston,30-round mag
+Compact SIG MCX,Assault Rifle,5.56×45mm NATO,3.56kg,475m,904m/s,700 rpm,USA,1956,SIG Sauer,Short-stroke gas piston,30-round mag
+Steyr AUG Recon-4,Assault Rifle,5.56×45mm NATO,3.07kg,546m,896m/s,1200 rpm,Austria,2024,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+PKM Spec-Ops-2,General Purpose MG,7.62×54mmR,3.32kg,518m,796m/s,700 rpm,Soviet Union,2014,Kalashnikov,Long-stroke gas piston,30-round mag
+M1 Garand CQC-5,Battle Rifle,.30-06 Springfield,3.24kg,519m,870m/s,700 rpm,USA,2004,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M14 SOPMOD-1,Battle Rifle,7.62×51mm NATO,3.24kg,508m,819m/s,600 rpm,USA,1976,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Modernized FN FAL,Battle Rifle,7.62×51mm NATO,3.22kg,547m,813m/s,800 rpm,Belgium,1946,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+FN FAL SOPMOD-1,Battle Rifle,7.62×51mm NATO,3.05kg,524m,766m/s,950 rpm,Belgium,1953,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+M4 Carbine Heavy-6,Carbine,5.56×45mm NATO,3.13kg,454m,876m/s,700 rpm,USA,1990,Colt,"Gas-operated, rotating bolt",30-round mag
+FAMAS Modernized-3,Assault Rifle,5.56×45mm NATO,3.83kg,452m,908m/s,1000 rpm,France,1972,GIAT,Lever-delayed blowback,30-round mag
+FN SCAR-L SOPMOD-8,Assault Rifle,5.56×45mm NATO,3.41kg,459m,881m/s,1200 rpm,Belgium,1999,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+HK416 Compact-5,Assault Rifle,5.56×45mm NATO,3.85kg,479m,875m/s,1200 rpm,Germany,1990,Heckler & Koch,Short-stroke gas piston,30-round mag
+Recon Steyr AUG,Assault Rifle,5.56×45mm NATO,3.95kg,470m,875m/s,1200 rpm,Austria,2015,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M16A4 Compact-6,Assault Rifle,5.56×45mm NATO,3.92kg,487m,914m/s,600 rpm,USA,1968,Colt,"Gas-operated, rotating bolt",30-round mag
+Beretta ARX160 Spec-Ops-9,Assault Rifle,5.56×45mm NATO,2.98kg,527m,875m/s,700 rpm,Italy,1996,Beretta,Short-stroke gas piston,30-round mag
+MP5 Custom-9,Submachine Gun,9×19mm,3.34kg,210m,413m/s,700 rpm,Germany,2017,Heckler & Koch,Roller-delayed blowback,30-round mag
+M1911 Modernized-7,Pistol,.45 ACP,0.82kg,47m,353m/s,Semi-automatic,USA,1978,Colt,"Short recoil, locked breech",19-round detachable mag
+G3 CQC-8,Battle Rifle,7.62×51mm NATO,3.79kg,457m,812m/s,700 rpm,Germany,2005,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+FN SCAR-L Custom-1,Assault Rifle,5.56×45mm NATO,3.11kg,517m,889m/s,650 rpm,Belgium,1992,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+M16A4 Compact-9,Assault Rifle,5.56×45mm NATO,3.78kg,473m,904m/s,650 rpm,USA,1996,Colt,"Gas-operated, rotating bolt",30-round mag
+HK416 Elite-6,Assault Rifle,5.56×45mm NATO,3.52kg,548m,939m/s,1200 rpm,Germany,2006,Heckler & Koch,Short-stroke gas piston,30-round mag
+Steyr AUG Tactical-7,Assault Rifle,5.56×45mm NATO,3.86kg,519m,897m/s,650 rpm,Austria,1967,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+MG42 Tactical-2,General Purpose MG,7.92×57mm Mauser,3.73kg,480m,858m/s,1000 rpm,Germany,2023,Mauser,Short-stroke gas piston,30-round mag
+M1 Garand Modernized-7,Battle Rifle,.30-06 Springfield,3.5kg,537m,928m/s,900 rpm,USA,1966,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+AK-47 Compact-2,Assault Rifle,7.62×39mm,3.61kg,463m,838m/s,700 rpm,Soviet Union,1956,Izhmash,"Gas-operated, rotating bolt",30-round mag
+AK-47 Recon-4,Assault Rifle,7.62×39mm,3.34kg,473m,817m/s,900 rpm,Soviet Union,1959,Izhmash,"Gas-operated, rotating bolt",30-round mag
+AK-47 CQC-6,Assault Rifle,7.62×39mm,3.92kg,547m,767m/s,900 rpm,Soviet Union,1963,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M4 Carbine Heavy-9,Carbine,5.56×45mm NATO,3.04kg,517m,941m/s,700 rpm,USA,1954,Colt,"Gas-operated, rotating bolt",30-round mag
+M240 Spec-Ops-8,General Purpose MG,7.62×51mm NATO,3.95kg,496m,794m/s,650 rpm,USA/Belgium,2021,FN Herstal,Short-stroke gas piston,30-round mag
+PKM Custom-3,General Purpose MG,7.62×54mmR,3.34kg,487m,798m/s,950 rpm,Soviet Union,2009,Kalashnikov,Long-stroke gas piston,30-round mag
+M249 SAW Modernized-6,Light Machine Gun,5.56×45mm NATO,9.95kg,993m,889m/s,600 rpm,USA,2020,FN Herstal,"Gas-operated, rotating bolt",200-round box
+Recon Steyr AUG,Assault Rifle,5.56×45mm NATO,3.65kg,452m,878m/s,950 rpm,Austria,2003,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M240 CQC-6,General Purpose MG,7.62×51mm NATO,3.67kg,539m,793m/s,800 rpm,USA/Belgium,1975,FN Herstal,Short-stroke gas piston,30-round mag
+Glock 17 Night-Ops-7,Pistol,9×19mm,0.72kg,45m,362m/s,Semi-automatic,Austria,1998,Glock,"Short recoil, locked breech",19-round detachable mag
+M240 CQC-8,General Purpose MG,7.62×51mm NATO,3.99kg,538m,821m/s,700 rpm,USA/Belgium,2018,FN Herstal,Short-stroke gas piston,30-round mag
+M14 Modernized-5,Battle Rifle,7.62×51mm NATO,3.94kg,534m,761m/s,650 rpm,USA,2002,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+SIG MCX Modernized-8,Assault Rifle,5.56×45mm NATO,3.56kg,477m,871m/s,1200 rpm,USA,1989,SIG Sauer,Short-stroke gas piston,30-round mag
+AK-47 Heavy-5,Assault Rifle,7.62×39mm,3.97kg,519m,784m/s,950 rpm,Soviet Union,1967,Izhmash,"Gas-operated, rotating bolt",30-round mag
+Steyr AUG Spec-Ops-9,Assault Rifle,5.56×45mm NATO,3.48kg,532m,882m/s,900 rpm,Austria,2004,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+Barrett M82 Modernized-3,Anti-materiel rifle,.50 BMG,11.12kg,1941m,1256m/s,57 rpm,USA,2005,Barrett,Short-recoil,10-round detachable mag
+Recon M4 Carbine,Carbine,5.56×45mm NATO,3.23kg,540m,914m/s,600 rpm,USA,1983,Colt,"Gas-operated, rotating bolt",30-round mag
+M4 Carbine Recon-4,Carbine,5.56×45mm NATO,3.12kg,452m,944m/s,800 rpm,USA,1984,Colt,"Gas-operated, rotating bolt",30-round mag
+Recon MG42,General Purpose MG,7.92×57mm Mauser,3.64kg,534m,874m/s,650 rpm,Germany,1955,Mauser,Short-stroke gas piston,30-round mag
+Barrett M82 Tactical-4,Anti-materiel rifle,.50 BMG,11.48kg,1956m,1181m/s,44 rpm,USA,1974,Barrett,Short-recoil,10-round detachable mag
+Heavy PKM,General Purpose MG,7.62×54mmR,3.57kg,459m,834m/s,600 rpm,Soviet Union,1977,Kalashnikov,Long-stroke gas piston,30-round mag
+FN SCAR-L Modernized-7,Assault Rifle,5.56×45mm NATO,3.81kg,544m,888m/s,600 rpm,Belgium,1970,FN Herstal,"Gas-operated, rotating bolt",30-round mag
+M249 SAW Heavy-1,Light Machine Gun,5.56×45mm NATO,10.16kg,1004m,935m/s,900 rpm,USA,1948,FN Herstal,"Gas-operated, rotating bolt",100-round belt
+G3 Compact-3,Battle Rifle,7.62×51mm NATO,3.3kg,454m,786m/s,650 rpm,Germany,1954,Heckler & Koch,Roller-delayed blowback,20-round detachable mag
+IWI Tavor Night-Ops-2,Assault Rifle,5.56×45mm NATO,3.51kg,506m,879m/s,1000 rpm,Israel,2019,IWI,Long-stroke gas piston,30-round mag
+M1 Garand Recon-5,Battle Rifle,.30-06 Springfield,3.85kg,515m,922m/s,950 rpm,USA,2014,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+AK-47 Recon-4,Assault Rifle,7.62×39mm,3.48kg,532m,763m/s,700 rpm,Soviet Union,2002,Izhmash,"Gas-operated, rotating bolt",30-round mag
+MG42 SOPMOD-8,General Purpose MG,7.92×57mm Mauser,3.19kg,498m,923m/s,1000 rpm,Germany,1952,Mauser,Short-stroke gas piston,30-round mag
+FAMAS Compact-8,Assault Rifle,5.56×45mm NATO,3.78kg,472m,917m/s,700 rpm,France,1949,GIAT,Lever-delayed blowback,30-round mag
+Uzi Spec-Ops-6,Submachine Gun,9×19mm,3.51kg,219m,387m/s,800 rpm,Israel,1968,IMI,Blowback,30-round mag
+FN FAL SOPMOD-2,Battle Rifle,7.62×51mm NATO,2.98kg,491m,827m/s,800 rpm,Belgium,2013,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+Uzi Night-Ops-2,Submachine Gun,9×19mm,3.01kg,199m,395m/s,800 rpm,Israel,2017,IMI,Blowback,30-round mag
+Custom Steyr AUG,Assault Rifle,5.56×45mm NATO,3.35kg,527m,915m/s,700 rpm,Austria,1999,Steyr Mannlicher,Short-stroke gas piston,30-round mag
+M1 Garand Mk II-5,Battle Rifle,.30-06 Springfield,3.71kg,477m,917m/s,1200 rpm,USA,2024,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+HK416 SOPMOD-8,Assault Rifle,5.56×45mm NATO,3.49kg,537m,922m/s,600 rpm,Germany,2012,Heckler & Koch,Short-stroke gas piston,30-round mag
+M1 Garand SOPMOD-7,Battle Rifle,.30-06 Springfield,2.98kg,494m,928m/s,1200 rpm,USA,1952,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+M249 SAW Night-Ops-7,Light Machine Gun,5.56×45mm NATO,8.26kg,901m,871m/s,800 rpm,USA,1964,FN Herstal,"Gas-operated, rotating bolt",200-round box
+IWI Tavor Heavy-7,Assault Rifle,5.56×45mm NATO,3.95kg,476m,878m/s,600 rpm,Israel,2024,IWI,Long-stroke gas piston,30-round mag
+FAMAS Recon-9,Assault Rifle,5.56×45mm NATO,3.02kg,526m,879m/s,1000 rpm,France,1966,GIAT,Lever-delayed blowback,30-round mag
+Beretta ARX160 Custom-9,Assault Rifle,5.56×45mm NATO,3.43kg,452m,867m/s,1000 rpm,Italy,1978,Beretta,Short-stroke gas piston,30-round mag
+HK416 Tactical-4,Assault Rifle,5.56×45mm NATO,3.2kg,518m,930m/s,600 rpm,Germany,1987,Heckler & Koch,Short-stroke gas piston,30-round mag
+AK-47 CQC-8,Assault Rifle,7.62×39mm,3.55kg,545m,780m/s,900 rpm,Soviet Union,2015,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M4 Carbine Spec-Ops-5,Carbine,5.56×45mm NATO,3.66kg,451m,902m/s,1000 rpm,USA,1974,Colt,"Gas-operated, rotating bolt",30-round mag
+Tactical M14,Battle Rifle,7.62×51mm NATO,3.35kg,530m,836m/s,800 rpm,USA,1960,Springfield Armory,"Gas-operated, rotating bolt",20-round detachable mag
+Barrett M82 Heavy-8,Anti-materiel rifle,.50 BMG,11.69kg,1859m,1220m/s,42 rpm,USA,1992,Barrett,Short-recoil,10-round detachable mag
+HK416 Spec-Ops-3,Assault Rifle,5.56×45mm NATO,4.01kg,491m,933m/s,1000 rpm,Germany,1967,Heckler & Koch,Short-stroke gas piston,30-round mag
+FN FAL Elite-7,Battle Rifle,7.62×51mm NATO,3.45kg,452m,773m/s,800 rpm,Belgium,1990,FN Herstal,"Gas-operated, tilting bolt",20-round detachable mag
+SOPMOD M240,General Purpose MG,7.62×51mm NATO,3.45kg,534m,831m/s,1000 rpm,USA/Belgium,2001,FN Herstal,Short-stroke gas piston,30-round mag
+M4 Carbine Tactical-5,Carbine,5.56×45mm NATO,3.73kg,509m,855m/s,800 rpm,USA,1947,Colt,"Gas-operated, rotating bolt",30-round mag
+M240 Tactical-7,General Purpose MG,7.62×51mm NATO,3.25kg,454m,796m/s,650 rpm,USA/Belgium,2009,FN Herstal,Short-stroke gas piston,30-round mag
+Beretta ARX160 Custom-1,Assault Rifle,5.56×45mm NATO,3.33kg,482m,856m/s,1200 rpm,Italy,1947,Beretta,Short-stroke gas piston,30-round mag
+M4 Carbine Night-Ops-5,Carbine,5.56×45mm NATO,3.33kg,481m,876m/s,1200 rpm,USA,1960,Colt,"Gas-operated, rotating bolt",30-round mag
+AK-47 Mk II-7,Assault Rifle,7.62×39mm,3.46kg,456m,801m/s,950 rpm,Soviet Union,1991,Izhmash,"Gas-operated, rotating bolt",30-round mag
+M249 SAW Custom-9,Light Machine Gun,5.56×45mm NATO,8.55kg,969m,869m/s,650 rpm,USA,2016,FN Herstal,"Gas-operated, rotating bolt",200-round box
+CQC Barrett M82,Anti-materiel rifle,.50 BMG,14.55kg,1647m,1190m/s,42 rpm,USA,1995,Barrett,Short-recoil,10-round detachable mag
